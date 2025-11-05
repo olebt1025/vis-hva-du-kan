@@ -1,0 +1,6 @@
+Colors:
+lightblue - A2D2FF 
+Lightlightblue - BDE0FE
+pink - FFAFCC
+lightpink - FFC8DD
+Purple - CDB4DB
